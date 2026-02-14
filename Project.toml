@@ -1,4 +1,4 @@
-name = "JuliaLessons"
+name = "PolarPlunge"
 
 [deps]
 AbstractFFTs = "621f4979-c628-5d54-868e-fcf4e3e8185c"
