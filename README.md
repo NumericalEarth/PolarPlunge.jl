@@ -27,3 +27,7 @@ This workshop would not be possible without the tremendous efforts from
 - The [Oceananigans developers](https://github.com/CliMA/Oceananigans.jl)
 - The [SpeedyWeather developers](https://github.com/SpeedyWeather/SpeedyWeather.jl)
 
+## See also
+
+- https://github.com/NumericalEarth/SwimLessons.jl
+- https://github.com/SpeedyWeather/NCAS_CMSS_2025
