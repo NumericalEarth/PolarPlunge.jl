@@ -24,7 +24,7 @@ How to run the notebooks here locally
 
 1. [Install Julia](https://julialang.org/downloads/), run with `julia` in your terminal
 2. [Install IJulia](https://github.com/JuliaLang/IJulia.jl) via `using Pkg; Pkg.add("IJulia")` inside the [Julia REPL](https://docs.julialang.org/en/v1/stdlib/REPL/)
-3. Add a Jupyter kernel via `using IJulia; installkernel("Julia")
+3. Add a Jupyter kernel via `using IJulia; installkernel("Julia")`
 4. Launch `jupyter notebook`, choose notebook and pick the "Julia" kernel
 
 ## Google Colab
