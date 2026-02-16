@@ -31,3 +31,4 @@ This workshop would not be possible without the tremendous efforts from
 
 - https://github.com/NumericalEarth/SwimLessons.jl
 - https://github.com/SpeedyWeather/NCAS_CMSS_2025
+- https://github.com/mauro3/EGU2025-Julia-intro-and-showcase-for-geoscience
