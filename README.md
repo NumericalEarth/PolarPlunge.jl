@@ -33,7 +33,9 @@ The notebooks here can also be launched without installation on Google Colab. Yo
 
 1. Session: https://colab.research.google.com/github/NumericalEarth/PolarPlunge.jl/blob/main/01_Intro/0_Julia_Introduction.ipynb
 2. Session:
-3. Session:
+    1. GPU basics: https://colab.research.google.com/github/NumericalEarth/PolarPlunge.jl/blob/main/02_GPU/01_gpu_computing.ipynb
+    2. GPU PDEs: https://colab.research.google.com/github/NumericalEarth/PolarPlunge.jl/blob/main/02_GPU/02_gpu_navier_stokes.ipynb
+4. Session:
     1. SpeedyWeather:
     2. Oceananigans:
 
