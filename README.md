@@ -18,6 +18,27 @@ Speakers:
 
 You find the materials for each session in the respective folders.
 
+## Jupyter notebooks
+
+How to run the notebooks here locally
+
+1. [Install Julia](https://julialang.org/downloads/), run with `julia` in your terminal
+2. [Install IJulia](https://github.com/JuliaLang/IJulia.jl) via `using Pkg; Pkg.add("IJulia")` inside the [Julia REPL](https://docs.julialang.org/en/v1/stdlib/REPL/)
+3. Add a Jupyter kernel via `using IJulia; installkernel("Julia")`
+4. Launch `jupyter notebook`, choose notebook and pick the "Julia" kernel
+
+## Google Colab
+
+The notebooks here can also be launched without installation on Google Colab. You will need to log in with a Google account.
+
+1. Session: [Google Colab link](https://colab.research.google.com/github/NumericalEarth/PolarPlunge.jl/blob/main/01_Intro/introduction_to_julia.ipynb)
+2. Session:
+    1. GPU basics: [Google Colab link](https://colab.research.google.com/github/NumericalEarth/PolarPlunge.jl/blob/main/02_GPU/01_gpu_computing.ipynb)
+    2. GPU PDEs: [Google Colab link](https://colab.research.google.com/github/NumericalEarth/PolarPlunge.jl/blob/main/02_GPU/02_gpu_navier_stokes.ipynb)
+4. Session:
+    1. SpeedyWeather:
+    2. Oceananigans:
+
 ## Acknowledgements
 
 This workshop would not be possible without the tremendous efforts from
