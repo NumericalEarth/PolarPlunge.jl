@@ -28,3 +28,6 @@ LocalPreferences.toml
 JuliaLocalPreferences.toml
 
 .DS_Store
+.CondaPkg
+CondaPkg.toml
+.ipynb_checkpoints
