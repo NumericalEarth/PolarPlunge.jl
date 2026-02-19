@@ -31,3 +31,6 @@ JuliaLocalPreferences.toml
 .CondaPkg
 CondaPkg.toml
 .ipynb_checkpoints
+
+run_*
+*.nc
