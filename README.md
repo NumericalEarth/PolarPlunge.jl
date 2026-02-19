@@ -36,7 +36,7 @@ The notebooks here can also be launched without installation on Google Colab. Yo
     1. GPU basics: [Google Colab link](https://colab.research.google.com/github/NumericalEarth/PolarPlunge.jl/blob/main/02_GPU/01_gpu_computing.ipynb)
     2. GPU PDEs: [Google Colab link](https://colab.research.google.com/github/NumericalEarth/PolarPlunge.jl/blob/main/02_GPU/02_gpu_navier_stokes.ipynb)
 4. Session:
-    1. SpeedyWeather:
+    1. SpeedyWeather: [Google Colab link](https://colab.research.google.com/github/NumericalEarth/PolarPlunge.jl/blob/main/03_NumericalEarth/speedyweather.ipynb)
     2. Oceananigans:
 
 ## Acknowledgements
