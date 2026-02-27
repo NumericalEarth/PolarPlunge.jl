@@ -6,7 +6,7 @@ A workshop held 18-19th February 2026 for Edinburgh's [Mac-Migs PhD programme](h
 
 Speakers:
 
-- [Simone Silvestri](https://github.com/simone-silvestri) (U Torino / MIT)
+- [Simone Silvestri](https://github.com/simone-silvestri) (Politecnico Torino / MIT)
 - [Milan Klöwer](https://milankl.github.io/) (Oxford)
 
 ## Workshop structure
